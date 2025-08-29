@@ -53,11 +53,11 @@ An analysis on Europe was made at the end and linked to valiate the application 
 
 The **interactive app** allows users to:
 
-- 🔮 Forecast future growth (2025–2028) for any of the 39 subfields.  
-- 📊 Compare multiple subfields side by side.  
-- 🌍 Explore country level contributions (bar charts + maps). Which countries contributed the most in terms of reseearch/patents/investments within this topics?  
-- 📥 Export graphs and data as CSV or PNG.  
-- ℹ️ Get explanations of model choices (RMSE, polynomial degree, weights in the interface, good for future testing or reproducing work).  
+- Forecast future growth (2025–2028) for any of the 39 subfields.  
+- Compare multiple subfields side by side.  
+- Explore country level contributions (bar charts + maps). Which countries contributed the most in terms of reseearch/patents/investments within this topics?  
+- Export graphs and data as CSV or PNG.  
+- Get explanations of model choices (RMSE, polynomial degree, weights in the interface, good for future testing or reproducing work).  
 
 ---
 
