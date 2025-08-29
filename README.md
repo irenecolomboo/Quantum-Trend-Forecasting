@@ -74,6 +74,10 @@ At the end of the report a real case use of the application is shown and an anal
 
 
 ---
+## Creators:
+Alexandru Balan
+Irene Colombo
+
 
 
 
